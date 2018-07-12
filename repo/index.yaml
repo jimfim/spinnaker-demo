@@ -3,11 +3,11 @@ entries:
   spinnaker-demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-07-12T22:09:35.6065769+01:00
+    created: 2018-07-12T23:48:08.1439313+01:00
     description: A Helm chart for Kubernetes
     digest: 322a5c18f2e304828b67bd6fa5c7c8e503ec5c4b7eed6c7346c2e8905622157f
     name: spinnaker-demo
     urls:
     - https://github.com/jimfim/spinnaker-demo/repo/spinnaker-demo-0.1.0.tgz
     version: 0.1.0
-generated: 2018-07-12T22:09:35.6055765+01:00
+generated: 2018-07-12T23:48:08.1429276+01:00
