@@ -1,4 +1,4 @@
-$version = 0.4;
+$version = 0.5;
 
 docker build -t jimfim/spinnaker-demo:$version .
 docker tag  jimfim/spinnaker-demo:$version jimfim/spinnaker-demo:latest
