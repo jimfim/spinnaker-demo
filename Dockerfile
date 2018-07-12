@@ -1,3 +1,3 @@
 FROM nginx:alpine
 
-ADD src/ /data/www/
+ADD src/ /usr/share/nginx/html
